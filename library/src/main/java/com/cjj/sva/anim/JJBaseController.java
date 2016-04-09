@@ -91,7 +91,7 @@ public abstract class JJBaseController {
     /**
      * 重置搜索动画
      */
-    public void recetAnim() {
+    public void resetAnim() {
     }
 
 

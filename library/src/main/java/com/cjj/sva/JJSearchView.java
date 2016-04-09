@@ -4,14 +4,11 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.Path;
-import android.graphics.PathMeasure;
 import android.util.AttributeSet;
 import android.view.View;
 
 import com.cjj.sva.anim.JJBaseController;
-import com.cjj.sva.anim.controller.JJBarWithErrorIconController;
 import com.cjj.sva.anim.controller.JJChangeArrowController;
-import com.cjj.sva.anim.controller.JJCircleToBarController;
 
 /**
  * 这是一个神奇的类，今天心情郁闷
@@ -67,7 +64,7 @@ public class JJSearchView extends View {
 
     public void resetAnim() {
         if (mController != null)
-            mController.recetAnim();
+            mController.resetAnim();
     }
 
 }

@@ -86,7 +86,7 @@ public class JJScaleCircleAndTailController extends JJBaseController {
     }
 
     @Override
-    public void recetAnim() {
+    public void resetAnim() {
         if (mState == STATE_ANIM_STOP) return;
         mState = STATE_ANIM_STOP;
         startSearchViewAnim();

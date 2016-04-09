@@ -161,7 +161,7 @@ public class JJDotGoPathController extends JJBaseController {
     }
 
     @Override
-    public void recetAnim() {
+    public void resetAnim() {
         if (mState == STATE_ANIM_STOP) return;
         mState = STATE_ANIM_STOP;
         mArcTemp = 1;
