@@ -129,7 +129,7 @@ mJJSearchView.resetAnim();
 
 
 ####About me
-A low-level android software development engineers, like watching cartoons, like playing football, love life ! If you want to make friends with me, You can email tell me.Email address: cjjcjj2014@gmail.com.
+A low-level android software development engineer, like watching cartoons, like playing football, love life ! If you want to make friends with me, You can email tell me.Email address: cjjcjj2014@gmail.com.
 
 
 License
@@ -137,7 +137,7 @@ License
 
     The MIT License (MIT)
 
-	Copyright (c) 2015 android-cjj
+	Copyright (c) 2016 android-cjj
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
